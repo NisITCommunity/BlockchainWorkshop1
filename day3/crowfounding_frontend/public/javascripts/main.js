@@ -1,4 +1,4 @@
-var web3 = new Web3(Web3.givenProvider || 'ws://localhost:7546');
+var web3 = new Web3('ws://localhost:7545');
 
 $(document).ready(function() {
   $('.nav .nav-link').removeClass('active')

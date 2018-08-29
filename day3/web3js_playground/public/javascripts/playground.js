@@ -1,4 +1,4 @@
-const web3 = new Web3(Web3.givenProvider || 'ws://localhost:7546');
+const web3 = new Web3('ws://localhost:7545');
 const abi = [
   {
     "constant": false,
