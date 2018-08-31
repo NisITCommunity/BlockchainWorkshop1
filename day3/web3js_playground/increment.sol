@@ -11,7 +11,7 @@ contract Increment3 {
     emit Incremented(val);
   }
     
-  function read() public view returns (uint, uint){
+  function read() public view returns (uint){
     return (value);
   }
 }
