@@ -12,4 +12,4 @@ Directories:
   - In directory `views` there are all static pages. JavaScript for all pages are located at `public/javascripts` and have the same names like views just extension is .js
 
 Presentation:
-- https://docs.google.com/presentation/d/1hnydCgeuC-vHL3N9B9UprsEkSl_BDiO2KL-25oCVEFc/edit?usp=sharing
+- https://docs.google.com/presentation/d/1NTO2k8NgHgfFzquIlx-EAv2YrpscOsGZVwBrJZ1exog/edit?usp=sharing
